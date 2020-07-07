@@ -30,7 +30,6 @@ return;
         return message.reply("Eu não posso banir esse usuário, ele pode ter um cargo maior que o meu.")
 
         let reason = args.slice(1).join(' ');
-
    let anuncioembed = new Discord.RichEmbed()
    anuncioembed.setDescription(`Você está presta a banir o ${user.toString()} você tem certeza?`)
    anuncioembed.setTimestamp();
