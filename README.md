@@ -10,8 +10,8 @@
 
 
 
-                                                                      DuiConfig
-                                                            https://duiconfig.glitch.me
+                                                       DuiConfig
+                                              https://duiconfig.glitch.me
  
  
  
