@@ -42,7 +42,7 @@ bot.on('ready', () => {
 
       const ms = require('pretty-ms')
        function setStatus() {
-         
+        
        }
     setInterval(() => {
  bot.user.setActivity("Estou Em: "+bot.guilds.size+" Servidores...")
