@@ -70,12 +70,4 @@ if (rodar_comandos) {
 }
 })
 bot.login(config.token)
-/*git remote add origin https://github.com/BotDuiConfig/hype-bot.git
-git push -u origin master
 
-echo "# hype-bot" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Equipe-Hype/hype-bot.git
-git push -u origin master*/
